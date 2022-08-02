@@ -1,1 +1,1 @@
-# my_shared_projects
+# my_projects
